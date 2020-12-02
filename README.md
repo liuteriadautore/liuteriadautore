@@ -1,7 +1,7 @@
 ### Welcome to Liuteria d'Autore
 
-Liuteria d'Autore is a shop dedicate in making and restoring fine string instruments. It's run by Andrea Spada, an italian master luthier living and workign in Rio de Janeiro.
-This is a repository collection for the main and additional websites, as well as open resources as drawings, informations and documentation about ancient. traditional and modern luthiery. Enjoy!
+Liuteria d'Autore is a shop dedicate in making and restoring fine string instruments. It's run by Andrea Spada, an italian master luthier living and working in Rio de Janeiro, Brazil.
+This is a repository collection for the main and additional websites, as well as open resources as drawings, informations and documentation about ancient, traditional and modern luthiery. Enjoy!
 
 <!--
 **liuteriadautore/liuteriadautore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
